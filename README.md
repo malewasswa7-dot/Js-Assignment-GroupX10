@@ -76,4 +76,15 @@ No installation is required. The project runs directly in the browser.
 ├── phone.jpg
 ├── shoes.jpg
 └── ...
-
+Members contribution
+Member	Commit Message
+Male Wasswa Saad	     Created index.html and product layout
+Nagadya Whitney        Harriet	Added CSS styling and responsive layout
+Ayikoru Sheldon	       Implemented dynamic product display using JavaScript
+Nagginda Benitah	     Implemented add to cart and cart counter
+Akao Tracy Otim	        Implemented cart page and quantity controls
+Akankunda Traver	      Added search and category filter functionality
+Atukwase Brenda	        Implemented checkout validation and error handling
+Abimanya Carlson	      Uploaded product images and organized images folder
+Nkesiga Nathan Kabantu	Designed header and footer sections
+Nakyeyune Hilda Maria	   Created README and documentation
