@@ -88,3 +88,4 @@ Atukwase Brenda	        Implemented checkout validation and error handling
 Abimanya Carlson	      Uploaded product images and organized images folder
 Nkesiga Nathan Kabantu	Designed header and footer sections
 Nakyeyune Hilda Maria	   Created README and documentation
+
