@@ -1,7 +1,7 @@
 # Js-Assignment-Group10
 # TechTrend Store - JavaScript E-Commerce Website
 
-## Group Members
+# Group Members
 
 | No. | Name                     | Registration Number |
 |-----|--------------------------|---------------------|
